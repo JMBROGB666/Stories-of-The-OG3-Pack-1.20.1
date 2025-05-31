@@ -1,0 +1,849 @@
+[
+{
+    "dimension": "minecraft:overworld",
+    "mob": "minecraft:creeper",
+    "maxcount": 10,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "minecraft:skeleton",
+    "maxcount": 50,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "minecraft:glow_squid",
+    "maxcount": 10,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "minecraft:axolotl",
+    "maxcount": 8,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "minecraft:turtle",
+    "maxcount": 4,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "minecraft:bee",
+    "maxcount": 8,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "minecraft:drowned",
+    "maxcount": 8,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "minecraft:cod",
+    "maxcount": 4,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "minecraft:salmon",
+    "maxcount": 4,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "minecraft:bat",
+    "maxcount": 5,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "minecraft:rabbit",
+    "maxcount": 5,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "minecraft:pufferfish",
+    "maxcount": 20,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "minecraft:squid",
+    "maxcount": 8,
+    "result": "deny"
+  },
+
+
+
+
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "guardvillagers:guard",
+    "mincount": 15,
+    "result": "deny"
+  },
+
+
+  
+  
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:lobster",
+    "maxcount": 5,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:seagull",
+    "maxcount": 4,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:crow",
+    "maxcount": 3,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:gelada_monkey",
+    "maxcount": 10,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:bison",
+    "maxcount": 15,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:raccoon",
+    "maxcount": 8,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:blue_jay",
+    "maxcount": 4,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:anaconda_part",
+    "maxcount": 4,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:anaconda",
+    "maxcount": 4,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:cockroach",
+    "maxcount": 3,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:seal",
+    "maxcount": 10,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:grizzly_bear",
+    "maxcount": 5,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:orca",
+    "maxcount": 2,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:alligator_snapping_turtle",
+    "maxcount": 8,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:anteater",
+    "maxcount": 8,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:bald_eagle",
+    "maxcount": 4,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:banana_slug",
+    "maxcount": 3,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:blobfish",
+    "maxcount": 8,
+    "result": "deny"
+  },{
+    "dimension": "minecraft:nether",
+    "mob": "alexsmobs:bone_serpent_part",
+    "maxcount": 15,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:nether",
+    "mob": "alexsmobs:bone_serpent",
+    "maxcount": 15,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:bunfungus",
+    "maxcount": 10,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:cachalot_whale",
+    "maxcount": 2,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:caiman",
+    "maxcount": 10,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:capuchin_monkey",
+    "maxcount": 15,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:catfish",
+    "maxcount": 8,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:centipede_body",
+    "maxcount": 15,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:centipede_head",
+    "maxcount": 15,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:centipede_tail",
+    "maxcount": 15,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:comb_jelly",
+    "maxcount": 15,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:crocodile",
+    "maxcount": 15,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:devils_hole_pupfish",
+    "maxcount": 8,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:elephant",
+    "maxcount": 15,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:emu",
+    "maxcount": 15,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:flutter",
+    "maxcount": 25,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:fly",
+    "maxcount": 4,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:flying_fish",
+    "maxcount": 10,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:frilled_shark",
+    "maxcount": 15,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:gazelle",
+    "maxcount": 10,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:gorilla",
+    "maxcount": 20,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:guster",
+    "maxcount": 15,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:hummingbird",
+    "maxcount": 5,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:kangaroo",
+    "maxcount": 15,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:leafcutter_ant",
+    "maxcount": 15,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:mantis_shrimp",
+    "maxcount": 10,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:platypus",
+    "maxcount": 10,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:potoo",
+    "maxcount": 5,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:rattlesnake",
+    "maxcount": 10,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:rhinoceros",
+    "maxcount": 15,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:shoebill",
+    "maxcount": 10,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:skelewag",
+    "maxcount": 15,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:skunk",
+    "maxcount": 10,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:snow_leopard",
+    "maxcount": 18,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:tarantula_hawk",
+    "maxcount": 15,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:tasmanian_devil",
+    "maxcount": 15,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:terrapin",
+    "maxcount": 20,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:tiger",
+    "maxcount": 18,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:toucan",
+    "maxcount": 15,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:tusklin",
+    "maxcount": 15,
+    "result": "deny"
+  },
+
+
+  
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "quark:toretoise",
+    "maxcount": 5,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "quark:crab",
+    "maxcount": 4,
+    "result": "deny"
+  },
+
+
+
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "graveyard:skeleton_creeper",
+    "result": "deny"
+  },
+
+  {
+    "mob": ["valarian_conquest:bandit_1", "valarian_conquest:bandit_2", "valarian_conquest:bandit_3"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 7
+  },
+  {
+    "mob": ["valarian_conquest:valarian_guard", "valarian_conquest:valarian_spearman", "valarian_conquest:valarian_raider", "valarian_conquest:valarian_ranger"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 15
+  },
+  {
+    "mob": ["valarian_conquest:valarian_archer"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 12
+  },
+  {
+    "mob": ["valarian_conquest:valarian_knight"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 20,
+    "damageadd": 2
+  },
+  {
+    "mob": ["valarian_conquest:kings_guard"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 20,
+    "damageadd": 4
+  },
+  {
+    "mob": ["valarian_conquest:valarian_king"],
+    "result": "default",
+    "when": "onjoin",
+    "speedmultiply": 4
+  },
+
+  {
+    "mob": ["valarian_conquest:bohemian_guard", "valarian_conquest:bohemian_spearman"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 15
+  },
+  {
+    "mob": ["valarian_conquest:bohemian_knight"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 20,
+    "damageadd": 2
+  },
+  {
+    "mob": ["valarian_conquest:bohemian_archer"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 12
+  },
+   {
+    "mob": ["valarian_conquest:bohemian_kings_guard"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 20,
+    "damageadd": 4
+  },
+  {
+    "mob": ["valarian_conquest:bohemian_king"],
+    "result": "default",
+    "when": "onjoin",
+    "speedmultiply": 4
+  },
+
+
+  {
+    "mob": ["valarian_conquest:caladrian_guard", "valarian_conquest:caladrian_spearman", "valarian_conquest:caladrian_officer"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 15
+  },
+  {
+    "mob": ["valarian_conquest:caladrian_knight"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 20,
+    "damageadd": 2
+  },
+  {
+    "mob": ["valarian_conquest:caladrian_archer"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 12
+  },
+  {
+    "mob": ["valarian_conquest:caladrian_kings_guard"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 20,
+    "damageadd": 4
+  },
+  {
+    "mob": ["valarian_conquest:caladrian_king"],
+    "result": "default",
+    "when": "onjoin",
+    "speedmultiply": 4
+  },
+
+
+  {
+    "mob": ["valarian_conquest:numerian_guard", "valarian_conquest:numerian_spearman"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 15
+  },
+  {
+    "mob": ["valarian_conquest:numerian_knight"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 20,
+    "damageadd": 2
+  },
+   {
+    "mob": ["valarian_conquest:caladrian_archer"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 12
+  },
+  {
+    "mob": ["valarian_conquest:numerian_kings_guard"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 20,
+    "damageadd": 4
+  },
+  {
+    "mob": ["valarian_conquest:numerian_king"],
+    "result": "default",
+    "when": "onjoin",
+    "speedmultiply": 4
+  },
+
+
+  {
+    "mob": ["valarian_conquest:gardonian_guard", "valarian_conquest:gardonian_spearman"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 15
+  },
+  {
+    "mob": ["valarian_conquest:gardonian_knight"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 20,
+    "damageadd": 2
+  },
+  {
+    "mob": ["valarian_conquest:gardonian_archer"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 7
+  },
+  {
+    "mob": ["valarian_conquest:gardonian_kings_guard"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 20,
+    "damageadd": 4
+  },
+  {
+    "mob": ["valarian_conquest:gardonian_king"],
+    "result": "default",
+    "when": "onjoin",
+    "speedmultiply": 4
+  },
+
+
+  {
+    "mob": ["valarian_conquest:visgothian_guard", "valarian_conquest:visgothian_spearman"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 15
+  },
+  {
+    "mob": ["valarian_conquest:visgothian_knight"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 20,
+    "damageadd": 2
+  },
+  {
+    "mob": ["valarian_conquest:visgothian_archer"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 7
+  },
+  {
+    "mob": ["valarian_conquest:visgothian_kings_guard"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 20,
+    "damageadd": 4
+  },
+  {
+    "mob": ["valarian_conquest:visgothian_king"],
+    "result": "default",
+    "when": "onjoin",
+    "speedmultiply": 4
+  },
+
+
+  {
+    "mob": ["valarian_conquest:galician_guard", "valarian_conquest:galician_spearman"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 15
+  },
+  {
+    "mob": ["valarian_conquest:galician_knight"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 20,
+    "damageadd": 2
+  },
+  {
+    "mob": ["valarian_conquest:galician_archer"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 7
+  },
+  {
+    "mob": ["valarian_conquest:galician_kings_guard"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 20,
+    "damageadd": 4
+  },
+  {
+    "mob": ["valarian_conquest:galician_king"],
+    "result": "default",
+    "when": "onjoin",
+    "speedmultiply": 4
+  },
+
+
+  {
+    "mob": ["valarian_conquest:lancastian_guard", "valarian_conquest:lancastian_spearman"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 15
+  },
+  {
+    "mob": ["valarian_conquest:lancastian_knight"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 20,
+    "damageadd": 2
+  },
+  {
+    "mob": ["valarian_conquest:lancastian_archer"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 7
+  },
+  {
+    "mob": ["valarian_conquest:lancastian_kings_guard"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 20,
+    "damageadd": 4
+  },
+  {
+    "mob": ["valarian_conquest:lancastian_king"],
+    "result": "default",
+    "when": "onjoin",
+    "speedmultiply": 4
+  },
+
+  
+  {
+    "mob": ["valarian_conquest:draugr_guard", "valarian_conquest:draugr_spearman", "valarian_conquest:draugr_archer", "valarian_conquest:draugr_knight", "valarian_conquest:draugr_lord"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 12
+  },
+
+
+  {
+    "mob": ["valarian_conquest:orc_warrior","valarian_conquest:orc_raider"],
+    "result": "default",
+    "when": "onjoin",
+    "healthadd": 15
+  },
+  {
+    "mob": ["valarian_conquest:orc_berserker","valarian_conquest:orc_shaman"],
+    "result": "default",
+    "when": "onjoin",
+    "healthadd": 20
+  },
+
+
+  {
+    "mob": ["valarian_conquest:dwarven_guard", "valarian_conquest:dwarven_spearman"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 15,
+    "healthadd": 15
+  },
+  {
+    "mob": ["valarian_conquest:dwarven_officer"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 20,
+    "healthadd": 15
+  },
+  {
+    "mob": ["valarian_conquest:dwarven_elder"],
+    "result": "default",
+    "when": "onjoin",
+    "healthadd": 20,
+    "speedmultiply": 4
+  },
+  {
+    "mob": ["valarian_conquest:dwarven_miner"],
+    "result": "default",
+    "when": "onjoin",
+    "damageadd": 1
+  },
+
+
+  {
+    "mob": ["valarian_conquest:aegis_guard", "valarian_conquest:aegis_spearman"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 15
+  },
+  {
+    "mob": ["valarian_conquest:aegis_archer"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 7
+  },
+  {
+    "mob": ["valarian_conquest:aegis_commander", "valarian_conquest:aegis_knight"],
+    "result": "default",
+    "when": "onjoin",
+    "healthadd": 15
+  },
+  {
+    "mob": ["valarian_conquest:aegis_dark_knight"],
+    "result": "default",
+    "when": "onjoin",
+    "healthadd": 20
+  },
+
+
+  {
+    "mob": ["valarian_conquest:legion_guard", "valarian_conquest:legion_spearman"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 15,
+    "healthadd": 15
+  },
+  {
+    "mob": ["valarian_conquest:legion_bowman"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 15
+  },
+  {
+    "mob": ["valarian_conquest:legion_officer", "valarian_conquest:legion_commander"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 20,
+    "healthadd": 20
+  },
+
+
+  {
+    "mob": ["valarian_conquest:mercenary", "valarian_conquest:ranged_mercenary"],
+    "result": "default",
+    "when": "onjoin",
+    "armorset": 15
+  }
+
+
+]

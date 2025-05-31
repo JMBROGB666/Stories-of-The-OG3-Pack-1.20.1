@@ -1,0 +1,12 @@
+
+[Smog]
+	#Enables/disables smog from pollution
+	enabled = false
+	#Whether smog changes color depending on pollution
+	colored = false
+	#Enables/disables particle effects of polluted air
+	particles = false
+	#Smog density
+	#Range: 0.0 ~ 1.0
+	density = 0.0
+

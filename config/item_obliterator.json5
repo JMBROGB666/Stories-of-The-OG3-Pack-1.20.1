@@ -1,0 +1,160 @@
+{
+  // -----------------------------------------------------------
+  //              Item Obliterator by ElocinDev
+  // -----------------------------------------------------------
+  //  
+  // How to add items?
+  //   - They are json strings, so you need to separate each
+  //     entry with a comma, except the last
+  //   - If you start an entry with !, it will be treated as a regular expression
+  //     Example: "!minecraft:.*_sword" to disable all swords
+  //  
+  // -----------------------------------------------------------
+  // Do not touch this
+  "configVersion": 2,
+  // -----------------------------------------------------------
+  // Items here will be unusable completely
+  //    Example: minecraft:diamond
+  "blacklisted_items": [
+    "dawnoftimebuilder:stone_bricks_faucet", 
+    "dawnoftimebuilder:water_source_trickle", 
+    "dawnoftimebuilder:stone_bricks_water_jet",
+    "swem:scythe_leather",
+    "swem:pickaxe_leather",
+    "swem:axe_leather",
+    "swem:shovel_leather",
+    "swem:sword_leather",
+    "swem:leggings_leather",
+    "swem:helmet_leather",
+    "swem:chestplate_leather",
+    "swem:bow_leather",
+    "swem:shield_leather",
+    "swem:scythe_copper",
+    "swem:pickaxe_copper",
+    "swem:axe_copper",
+    "swem:shovel_copper",
+    "swem:sword_copper",
+    "swem:leggings_copper",
+    "swem:helmet_copper",
+    "swem:chestplate_copper",
+    "swem:bow_copper",
+    "swem:shield_copper",
+    "swem:scythe_iron",
+    "swem:pickaxe_iron",
+    "swem:axe_iron",
+    "swem:shovel_iron",
+    "swem:sword_iron",
+    "swem:leggings_iron",
+    "swem:helmet_iron",
+    "swem:chestplate_iron",
+    "swem:bow_iron",
+    "swem:shield_iron",
+    "swem:scythe_gold",
+    "swem:pickaxe_gold",
+    "swem:axe_gold",
+    "swem:shovel_gold",
+    "swem:sword_gold",
+    "swem:leggings_gold",
+    "swem:helmet_gold",
+    "swem:chestplate_gold",
+    "swem:bow_gold",
+    "swem:shield_gold",
+    "swem:scythe_diamond",
+    "swem:pickaxe_diamond",
+    "swem:axe_diamond",
+    "swem:shovel_diamond",
+    "swem:sword_diamond",
+    "swem:leggings_diamond",
+    "swem:helmet_diamond",
+    "swem:chestplate_diamond",
+    "swem:bow_diamond",
+    "swem:shield_diamond",
+    "swem:scythe_netherite",
+    "swem:pickaxe_netherite",
+    "swem:axe_netherite",
+    "swem:shovel_netherite",
+    "swem:sword_netherite",
+    "swem:leggings_netherite",
+    "swem:helmet_netherite",
+    "swem:chestplate_netherite",
+    "swem:bow_netherite",
+    "swem:shield_netherite",
+    "swem:helmet_amethyst",
+    "swem:chestplate_amethyst",
+    "swem:leggings_amethyst",
+    "swem:pickaxe_amethyst",
+    "swem:axe_amethyst",
+    "swem:shovel_amethyst",
+    "swem:scythe_amethyst",
+    "swem:sword_amethyst",
+    "swem:bow_amethyst",
+    "swem:shield_amethyst",
+    "swem:shopping_bag",
+    "swem:western_barrel",
+    "swem:wheel_barrow_red",
+    "swem:wheel_barrow_green",
+    "swem:wheel_barrow_blue",
+    "swem:wheel_barrow_purple",
+    "swem:wheel_barrow_cyan",
+    "swem:wheel_barrow_light_gray",
+    "swem:wheel_barrow_gray",
+    "swem:wheel_barrow_pink",
+    "swem:wheel_barrow_lime",
+    "swem:wheel_barrow_yellow",
+    "swem:wheel_barrow_light_blue",
+    "swem:wheel_barrow_magenta",
+    "swem:wheel_barrow_orange",
+    "swem:red_cone",
+    "swem:green_cone",
+    "swem:light_blue_cone",
+    "swem:purple_cone",
+    "swem:cyan_cone",
+    "swem:light_gray_cone",
+    "swem:gray_cone",
+    "swem:pink_cone",
+    "swem:lime_cone",
+    "swem:yellow_cone",
+    "swem:light_blue_cone",
+    "swem:magenta_cone",
+    "swem:orange_cone",
+    "swem:white_cone",
+    "swem:blue_cone",
+    "swem:brown_cone",
+    "swem:black_cone"
+
+  ],
+  // -----------------------------------------------------------
+  // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
+  // Use with caution! This is a very expensive operation and can cause lag if you have a lot of items blacklisted.
+  // 	
+  // 	 Example to disable a regeneration potion: Potion:"minecraft:regeneration"
+  // 	
+  // 	 You can also use regular expressions by starting the value with !
+  "blacklisted_nbt": [],
+  // -----------------------------------------------------------
+  // Items here will not be able to be right-clicked (Interact)
+  //    Example: minecraft:apple
+  "only_disable_interactions": [
+    "examplemod:example_item"
+  ],
+  // -----------------------------------------------------------
+  // Items here will not be able to be used to attack
+  //    Example: minecraft:diamond_sword
+  "only_disable_attacks": [
+    "examplemod:example_item"
+  ],
+  // -----------------------------------------------------------
+  // Items here will get their recipes disabled
+  // Keep in mind this already is applied to blacklisted items
+  "only_disable_recipes": [
+    "examplemod:example_item"
+  ],
+  // -----------------------------------------------------------
+  // If true, the mod will use a hashset to handle the blacklisted items
+  // This is a more optimized approach only if you have a lot of items blacklisted (20 or more is recommended)
+  // If you just have a small amount of items blacklisted, keep this false
+  //  
+  // [!] Enabling this will disable all regular expressions
+  // [!] Does not apply to NBT, only item blacklist / interaction / attack
+  "use_hashmap_optimizations": false
+}
