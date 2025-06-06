@@ -120,7 +120,9 @@
     "swem:white_cone",
     "swem:blue_cone",
     "swem:brown_cone",
-    "swem:black_cone"
+    "swem:black_cone",
+    "alexscaves:nuclear_bomb",
+    "alexscaves:raygun"
 
   ],
   // -----------------------------------------------------------

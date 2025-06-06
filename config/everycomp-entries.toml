@@ -523,13 +523,6 @@
 			scorched_bricks = true
 			scorched_road = true
 
-		[types.cut_block_type.swem]
-			timothy_bale = true
-			alfalfa_bale = true
-			oat_bale = true
-			quality_bale = true
-			whitewash = true
-
 		[types.cut_block_type.ars_nouveau]
 			sourcestone = true
 			sourcestone_mosaic = true
@@ -626,9 +619,6 @@
 		[types.wood_type.domum_ornamentum]
 			cactus = true
 			cactus_extra = true
-
-		[types.wood_type.swem]
-			whitewash = true
 
 		[types.wood_type.ars_nouveau]
 			archwood = true

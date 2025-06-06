@@ -125,7 +125,7 @@
 	#Enable/Disable the Halloween update
 	Halloween = true
 	#Enable/Disable the Christmas update
-	"(TEMPORARILY DISABLED) Christmas" = false
+	Christmas = false
 
 ["Block Audio"]
 	#Enable/Disable the grinders sound effect when in use.

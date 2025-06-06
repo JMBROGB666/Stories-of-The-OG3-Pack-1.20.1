@@ -165,6 +165,17 @@
         "value": 1
       }
     },
+    "tconstruct:generic.bad_effect_duration_multiplier": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "witherstormmod:hunchback_follow_range": {
       "enabled": false,
       "min": {
@@ -352,6 +363,17 @@
         "value": 2048
       }
     },
+    "tconstruct:generic.jump_boost": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "mcdw:reach": {
       "enabled": false,
       "min": {
@@ -361,6 +383,28 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "tconstruct:generic.bouncy": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "tconstruct:generic.good_effect_duration_multiplier": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
       }
     },
     "forge:nametag_distance": {
@@ -440,17 +484,6 @@
         "value": 1000000
       }
     },
-    "dawnera:dawnera.max_hunger": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
     "legendarysurvivaloverhaul:broken_heart_resilience": {
       "enabled": false,
       "min": {
@@ -460,6 +493,17 @@
       "max": {
         "default": 10000,
         "value": 10000
+      }
+    },
+    "dawnera:dawnera.max_hunger": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "legendarysurvivaloverhaul:cold_resistance": {
@@ -539,6 +583,39 @@
         "value": 100
       }
     },
+    "tconstruct:generic.crouch_damage_multiplier": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "tconstruct:player.jump_count": {
+      "enabled": false,
+      "min": {
+        "default": 1,
+        "value": 1
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "tconstruct:generic.knockback_multiplier": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "minecraft:generic.flying_speed": {
       "enabled": true,
       "min": {
@@ -572,6 +649,17 @@
         "value": 1
       }
     },
+    "tconstruct:player.experience_multiplier": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "ars_nouveau:ars_nouveau.perk.max_mana": {
       "enabled": false,
       "min": {
@@ -583,7 +671,29 @@
         "value": 10000
       }
     },
+    "tconstruct:player.mining_speed_multiplier": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "obscure_api:critical_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "tconstruct:player.critical_damage": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -616,6 +726,17 @@
         "value": 10000
       }
     },
+    "tconstruct:generic.protection_cap": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 0.949999988079071,
+        "value": 0.949999988079071
+      }
+    },
     "legendarysurvivaloverhaul:broken_heart": {
       "enabled": false,
       "min": {
@@ -625,6 +746,17 @@
       "max": {
         "default": 10000,
         "value": 10000
+      }
+    },
+    "tconstruct:player.use_item_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
       }
     },
     "minecraft:horse.jump_strength": {
